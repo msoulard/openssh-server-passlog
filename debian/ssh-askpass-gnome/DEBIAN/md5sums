@@ -1,0 +1,8 @@
+d9596f986f64716c3a5e89c9e02cef90  usr/lib/openssh/gnome-ssh-askpass
+e1c94571cc7eb88b840a3232c6bf8f49  usr/share/doc/ssh-askpass-gnome/NEWS.Debian.gz
+db7da2aa35f33508bea063eadd48ac1c  usr/share/doc/ssh-askpass-gnome/changelog.Debian.gz
+34eb778fdff145732cd17986494268ce  usr/share/doc/ssh-askpass-gnome/changelog.gz
+01f7f23cf65277bc88cca9cf931b8d5f  usr/share/doc/ssh-askpass-gnome/copyright
+008c3e298bbad90aa213628777744115  usr/share/doc/ssh-askpass-gnome/examples/ssh-askpass-gnome.desktop
+34058da1c77252dbc0c0e960df6dec6c  usr/share/man/man1/gnome-ssh-askpass.1.gz
+d36cef1eb1cd096b3ee98bdb54aca52f  usr/share/pixmaps/ssh-askpass-gnome.png

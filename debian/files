@@ -1,0 +1,7 @@
+openssh-client_6.0p1-4_amd64.deb net standard
+openssh-server_6.0p1-4_amd64.deb net optional
+ssh_6.0p1-4_all.deb net extra
+ssh-krb5_6.0p1-4_all.deb oldlibs extra
+ssh-askpass-gnome_6.0p1-4_amd64.deb gnome optional
+openssh-client-udeb_6.0p1-4_amd64.udeb debian-installer optional
+openssh-server-udeb_6.0p1-4_amd64.udeb debian-installer optional
